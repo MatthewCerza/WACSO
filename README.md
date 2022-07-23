@@ -1,10 +1,6 @@
 # WACSO
 WACSO is a simple application that plays the phrase "Welcome Aboard, Captain. All systems online"  from the cyclops in Subnautica when your Mac successfully boots up.   This is truly only a quick project I made in a couple of hours, and I cannot promise any future update or revisions. However, if you have suggestions, please let me know!
-WACSO v.1.0 Alpha
-By Matthew92007
-For macOS
 
-Intro: Hello, and thank you for downloading WACSO! This quick step-by-step guide will help you get WACSO installed on your system. Please make sure you have read the terms and conditions at the bottom of this page before installing.
 
 Installation/setup instructions:
 
@@ -21,8 +17,3 @@ Step 5: Click the “Login items” tab.
 Step 6: Click the Plus at the bottom of the list, and find WACSO in your Applications folder. When it has been added to the list, tick the box that says “Hide”.
 
 Step 7: Enjoy! You will now hear the soothing sounds of the cyclops whenever you boot up your computer.
-
-
-Terms and Conditions. The Legal stuff, WACSO will not damage your computer, don’t worry. 
-
-WACSO or any of its developers are not responsible for any harm or damage it or its use may cause to your computer. By installing this software, you take full responsibility over any hardware or software modifications WACSO shall make or you shall make with WACSO.
